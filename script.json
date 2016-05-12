@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\n![jesper](http://www.devoteam.dk/en/dynamicfiles/0103F04245227522C1257D48003D129D/Jesper1.png)\nI’m the personal bot of Jesper, a ServiceNow Specialist from Denmark.",
-    "HELLO": "Hey, I'm so glad you set JesperBot up! Do you want to tell Jesper that you're talking to his bot? %[Tell him](postback:contact)",
-    "CONTACT": "Send him an email at testmail@testdomain.com",
+    "HELLO": "Hey, I'm so glad you set JesperBot up! Do you want to tell Jesper that you're talking to his bot? %[Tell him](postback:tellhim)",
+    "TELL HIM": "Send him an email at testmail@testdomain.com",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "TEST": "Hello world!",
     "CONNECT ME": "",
